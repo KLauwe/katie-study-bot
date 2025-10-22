@@ -1,0 +1,170 @@
+[
+  {
+    "q": "A nurse is assessing a client experiencing depression. Which finding should the nurse expect?",
+    "type": "single",
+    "options": [
+      "Euphoric mood",
+      "Pressured speech",
+      "Anhedonia",
+      "Increased energy"
+    ],
+    "answerIdx": [
+      2
+    ],
+    "rationale": "Clients with depression often experience anhedonia (loss of pleasure in activities)."
+  },
+  {
+    "q": "Which intervention is priority for a client expressing suicidal ideation?",
+    "type": "single",
+    "options": [
+      "Provide a private room",
+      "Assign to 1:1 observation",
+      "Encourage verbalization of feelings",
+      "Provide diversional activities"
+    ],
+    "answerIdx": [
+      1
+    ],
+    "rationale": "Safety is the priority; constant observation prevents self-harm."
+  },
+  {
+    "q": "A nurse is caring for a client with schizophrenia who reports hearing voices. What is the best response?",
+    "type": "single",
+    "options": [
+      "I understand the voices are real to you, but I don’t hear them.",
+      "Those voices are not real, ignore them.",
+      "You shouldn’t talk about the voices.",
+      "Let’s focus on something else."
+    ],
+    "answerIdx": [
+      0
+    ],
+    "rationale": "Acknowledging the client's perception without validating the hallucination maintains trust and reality orientation."
+  },
+  {
+    "q": "A nurse is reinforcing teaching for a client taking lithium carbonate. Which statement indicates understanding?",
+    "type": "single",
+    "options": [
+      "I should decrease my salt intake.",
+      "I will avoid drinking large amounts of fluids.",
+      "I should stop taking the medication if I feel fine.",
+      "I will notify my provider if I experience diarrhea or vomiting."
+    ],
+    "answerIdx": [
+      3
+    ],
+    "rationale": "Dehydration can cause lithium toxicity; GI losses should be reported."
+  },
+  {
+    "q": "A client with bipolar disorder is in the manic phase. Which nursing action is appropriate?",
+    "type": "single",
+    "options": [
+      "Encourage group therapy participation.",
+      "Provide frequent rest periods.",
+      "Discuss consequences of behavior.",
+      "Encourage detailed goal setting."
+    ],
+    "answerIdx": [
+      1
+    ],
+    "rationale": "Clients in mania have increased activity and decreased sleep; rest periods prevent exhaustion."
+  },
+  {
+    "q": "A nurse in a community clinic facility notices a change in a client's behavior. Which of the following manifestations is the priority for the nurse to report?",
+    "type": "single",
+    "options": [
+      "Onset of command hallucinations",
+      "Development of magical thinking",
+      "Development of a diminished affect",
+      "Onset of anergia"
+    ],
+    "answerIdx": [
+      0
+    ],
+    "rationale": "Command hallucinations occur when a client who has schizophrenia believes he is told to take some sort of action. These actions can include hurting another person or the client. The greatest risk to this client is injury from the client acting on a command hallucination in order to harm himself or others. Therefore, the priority manifestation to report is the onset of command hallucinations."
+  },
+  {
+    "q": "A nurse is teaching a client who has depression about electroconvulsive therapy (ECT). Which of the following information should the nurse include in the teaching?",
+    "type": "single",
+    "options": [
+      "Temporary memory loss is the most common adverse effect of ECT",
+      "Medications are given to prevent seizure activity during ECT",
+      "The greatest risk of ECT is brain damage",
+      "ECT is effective in the treatment of substance use disorders"
+    ],
+    "answerIdx": [
+      0
+    ],
+    "rationale": "Temporary memory loss is the most common adverse effect of ECT. Memory usually returns within a few weeks."
+  },
+  {
+    "q": "A nurse is admitting a client who has multiple injuries following a motor vehicle crash. Shortly after admission, the client's partner arrives. He is distraught and blames himself for the accident. Which of the following responses should the nurse make?",
+    "type": "single",
+    "options": [
+      "\"Do not worry about that. Your wife will be fine.\"",
+      "\"I think you should calm down a little before you see your partner.\"",
+      "\"Why do you think the crash is your fault?\"",
+      "\"Tell me more about your feelings about what happened to your partner.\""
+    ],
+    "answerIdx": [
+      3
+    ],
+    "rationale": "This response illustrates the therapeutic communication technique of exploring, and will encourage the client to express his feelings about his partner's accident."
+  },
+  {
+    "q": "A nurse is teaching a client about the uses of chamomile. Which of the following information should the nurse include in the teaching?",
+    "type": "single",
+    "options": [
+      "\"Chamomile may act as a calming agent.\"",
+      "\"Chamomile has anti-inflammatory properties beneficial for treating skin disorders.\"",
+      "\"Chamomile decreases cholesterol levels.\"",
+      "\"Chamomile can reduce nausea and vomiting.\""
+    ],
+    "answerIdx": [
+      0
+    ],
+    "rationale": "Chamomile may act as a calming agent for clients who have sleep issues."
+  },
+  {
+    "q": "A nurse is caring for a client who was admitted with delirium tremens five days ago. The client seeks permission from the nurse before performing activities of daily living. This behavior indicates which of the following findings to the nurse?",
+    "type": "single",
+    "options": [
+      "The client is ready for discharge.",
+      "The client may be having a recurrence of delirium tremens.",
+      "The client is able to function independently.",
+      "The client is exhibiting dependency."
+    ],
+    "answerIdx": [
+      3
+    ],
+    "rationale": "Seeking permission for simple tasks indicates dependent functioning."
+  },
+  {
+    "q": "A nurse is planning to administer haloperidol to a client who has acute psychosis. The nurse should monitor the client for which of the following findings as an adverse effect of the medication?",
+    "type": "single",
+    "options": [
+      "Excess salivation",
+      "Increased agitation",
+      "Diarrhea",
+      "Dystonia"
+    ],
+    "answerIdx": [
+      3
+    ],
+    "rationale": "The nurse should monitor the client for dystonia after administering Haloperidol. Dystonia is a repetitive muscular contraction that may cause twisting of the body."
+  },
+  {
+    "q": "A nurse is teaching the parents of a school-age child who has ADHD about atomoxetine. Which of the following instructions should the nurse include in the teaching?",
+    "type": "single",
+    "options": [
+      "\"Limit caloric intake to prevent excessive weight gain.\"",
+      "\"Avoid crowds due to the increased risk for infection.\"",
+      "\"Expect hyperactivity as a common adverse effect.\"",
+      "\"Give the dose in the morning to help prevent insomnia.\""
+    ],
+    "answerIdx": [
+      3
+    ],
+    "rationale": "Insomnia is a common adverse effect of atomoxetine. Administering the dose in the morning will help prevent this adverse effect."
+  }
+]

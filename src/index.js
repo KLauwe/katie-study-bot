@@ -1,7 +1,17 @@
 import 'dotenv/config';
+import express from 'express';
 import {
-  Client, GatewayIntentBits, ActivityType, REST, Routes, SlashCommandBuilder,
-  ActionRowBuilder, ButtonBuilder, ButtonStyle, EmbedBuilder, StringSelectMenuBuilder,
+  Client,
+  GatewayIntentBits,
+  ActivityType,
+  REST,
+  Routes,
+  SlashCommandBuilder,
+  ActionRowBuilder,
+  ButtonBuilder,
+  ButtonStyle,
+  EmbedBuilder,
+  StringSelectMenuBuilder,
   PermissionFlagsBits
 } from 'discord.js';
 import fs from 'fs/promises';
@@ -442,3 +452,14 @@ async function actuallyStart(interaction, bankArr, desiredCount) {
 }
 
 client.login(process.env.DISCORD_TOKEN);
+
+// --- Tiny web server for Render (prevents free tier sleep) ---
+const app = express();
+app.get('/', (_req, res) => {
+  res.send('Katie Study Bot is running ✅');
+});
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => console.log(`🌐 Web heartbeat listening on :${PORT}`));
+
+
+
